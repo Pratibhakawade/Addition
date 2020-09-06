@@ -10,6 +10,10 @@ namespace Addition
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("Welcome");
+            Console.ReadLine();
         }
     }
 }
